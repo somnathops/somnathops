@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Somnath 👋
 
-<!--
-**somnathops/somnathops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+** Senior Reliability Engineer → Platform Engineer**  
+6.5 years keeping production alive at scale. Now building the systems underneath it.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+**[shipyard](https://github.com/somnathops/shipyard)** — A production-grade apps I'm using as a real deployment target to learn the full platform stack end-to-end.
+- 8 FastAPI microservices (auth, journal, study, workout, food, planner, analytics, frontend)
+- Deploying to EKS with Terraform, GitHub Actions CI/CD, ArgoCD GitOps
+- Adding Prometheus + Grafana + AlertManager for observability
+
+---
+
+## Stack
+
+```
+Cloud       AWS (AWS SSA — certified 2023)
+Containers  Docker · Kubernetes
+IaC         Terraform
+CI/CD       GitHub Actions · ArgoCD
+Monitoring  Prometheus · Grafana
+Languages   Python · Bash
+```
+
+---
+
+## AI + Reliability
+
+At work I build AI-powered internal tools on top of real production systems:
+- **Jenkins log analyzer** — LLM-assisted failure classification to cut MTTR on build failures
+- Applying AI to reliability problems: pattern detection, alert noise reduction, incident summarization
+
+---
+
+## Background
+
+Thoughtspot · Reliability Engineer · 6.5 years  
+India 🇮🇳
+
+I know what breaks at 3AM and why. Now I'm building the platforms that make it not break.
